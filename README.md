@@ -1,2 +1,2 @@
 # Snake_JavaScript
-Jogo Snake com JavaScript
+Jogo Snake usando apenas JavaScript e HTML/CSS puro
